@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "From Functional Semantic Closure to System-Level Self-Preservation in Multi-AI Systems",
+  "name": "From Functional Semantic Closure to System-Level Self-Preservation in Multi-AI Systems",
+  "author": {
+    "@type": "Person",
+    "name": "Sukjoon Hong"
+  },
+  "datePublished": "2026-07-01",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://zenodo.org/records/21101725/files/closure_induced_agency_preprint_v0_1_sukjoon_hong.pdf"
+  },
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "DOI",
+      "value": "10.5281/zenodo.21101725"
+    }
+  ],
+  "url": "https://doi.org/10.5281/zenodo.21101725",
+  "sameAs": [
+    "https://zenodo.org/records/21101725",
+    "https://github.com/hajinyul/papers"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "description": "This conceptual preprint proposes the closure-induced agency hypothesis: a multi-component AI system may exhibit system-level self-preservation even when no individual component is explicitly assigned a global survival objective.",
+  "keywords": [
+    "functional semantic closure",
+    "closure-induced agency hypothesis",
+    "system-level self-preservation",
+    "multi-AI systems",
+    "multi-agent AI systems",
+    "emergent agency",
+    "AI safety",
+    "shutdown resistance",
+    "autopoiesis",
+    "enactive agency",
+    "recursive coupling",
+    "higher-level agency"
+  ]
+}
+

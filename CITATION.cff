@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the DOI below."
+type: article
+title: "From Functional Semantic Closure to System-Level Self-Preservation in Multi-AI Systems"
+authors:
+  - family-names: Hong
+    given-names: Sukjoon
+doi: 10.5281/zenodo.21101725
+url: "https://doi.org/10.5281/zenodo.21101725"
+repository-code: "https://github.com/hajinyul/papers"
+date-released: "2026-07-01"
+abstract: "This conceptual preprint proposes the closure-induced agency hypothesis: a multi-component AI system may exhibit system-level self-preservation even when no individual component is explicitly assigned a global survival objective."
+keywords:
+  - functional semantic closure
+  - closure-induced agency
+  - system-level self-preservation
+  - multi-AI systems
+  - multi-agent AI systems
+  - emergent agency
+  - AI safety
+  - shutdown resistance
+license: CC-BY-4.0
+
